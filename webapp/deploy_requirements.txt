@@ -8,7 +8,7 @@ Jinja2==2.11.1
 MarkupSafe==1.1.1
 numpy==1.18.1
 packaging==20.3
-Pillow==7.0.0
+Pillow==8.2.0
 psutil==5.7.0
 pyparsing==2.4.6
 python-dateutil==2.8.1
